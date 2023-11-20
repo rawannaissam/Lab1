@@ -1,0 +1,6 @@
+To remove a local branch :
+git branch -d div
+
+
+To remove a remote branch:
+git push origin :div
